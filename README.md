@@ -26,7 +26,7 @@ _Notice this readme explain current state of this repository (master branch), an
 ## Testing
 - [ ] **Extended unit testing**. _Primarily using the Mesos test framework and best-practices for testing frameworks. Currently tests are very simple_.
 - [ ] **Extended functional testing.** _More use-case oriented testing, for example verifying framework behaves as expected on requests to the JSON service_.
-- [ ] **System testing, ELK on Mesos.** _An overall demo and test of ELK on Mesos, using the two other frameworks for [LogStash](https://github.com/mesos/logstash) and [Elasticsearch](https://github.com/mesos/elasticsearch) to provide a complete ELK stack running on Mesos_.
+- [ ] **System testing, ELK on Mesos.** _An overall demo and test of ELK on Mesos, using the two other frameworks for [Logstash](https://github.com/mesos/logstash) and [Elasticsearch](https://github.com/mesos/elasticsearch) to provide a complete ELK stack running on Mesos_.
 
 ## Miscellaneous
 - [ ] DCOS CLI support.
